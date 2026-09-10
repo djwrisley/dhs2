@@ -4,10 +4,13 @@ Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-start
 
 Contains basic configuration to get you a site with:
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
+1. Sample posts.
+2. Sample top navigation.
+3. Sample author sidebar with social links.
+4. Sample footer links.
+
+> This is a call out
+  
 - Paginated home page.
 - Archive pages for posts grouped by year, category, and tag.
 - Sample about page.
